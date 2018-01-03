@@ -1,1 +1,1 @@
-alert(1);
+alert('Loaded from GitHub with <3');
